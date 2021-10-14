@@ -3,7 +3,7 @@ from tkinter import messagebox
 import pyttsx3
 
 author = "Jencent Dizon"
-link = "https:github.com/I-am-Programmer-101"
+link = "https://github.com/I-am-Programmer-101"
 print("Author:", author, "Link:",link)
 
 rt = Tk()
