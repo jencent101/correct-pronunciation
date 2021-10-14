@@ -4,7 +4,7 @@ import pyttsx3
 
 author = "Jencent Dizon"
 link = "https://github.com/I-am-Programmer-101"
-print("Author:", author, "Link:",link)
+print("Author:", author, "\t\tLink:",link)
 
 rt = Tk()
 rt.title("Voice Speak")
